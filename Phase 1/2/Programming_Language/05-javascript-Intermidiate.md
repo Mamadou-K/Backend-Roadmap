@@ -54,7 +54,7 @@ class Admin extends User { // 'extends' keyword
 
 ## 2.1.4.3/- Asynchronous JavaScript.md (Updated)
 
-```markdown
+
 # 2.1.4.3 Asynchronous JavaScript ⏳
 
 **🎥 Video Resource (Async/Await):** [Async Await JavaScript Tutorial For Beginners](https://www.youtube.com/watch?v=670f71LTWpM)

@@ -107,7 +107,6 @@ const [rows] = await pool.query('SELECT * FROM Products WHERE price > ?', [100])
 
 ## 5.1.6/- PostgreSQL.md
 
-```markdown
 # 5.1.6 PostgreSQL
 
 **PostgreSQL (or Postgres)** is a powerful, open-source object-relational database system known for its robust feature set, high standards compliance, and data integrity.

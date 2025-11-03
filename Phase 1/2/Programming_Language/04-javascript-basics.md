@@ -167,7 +167,6 @@ In JavaScript, any value can be evaluated as a boolean in a conditional context:
 
 ## 2.1.3.8/- Consoles.md 
 
-```markdown
 # 2.1.3.8 Consoles 💬
 
 **📖 Article Resource:** [MDN: Console](https://developer.mozilla.org/en-US/docs/Web/API/console)
@@ -215,7 +214,6 @@ Loops execute a block of code repeatedly until a specific condition is met.
 
 ## 2.1.3.10/- Functions & Events.md
 
-```markdown
 # 2.1.3.10 Functions & Events ✨
 
 Functions and the event model are central to all JavaScript programming, especially backend where functions handle requests and the event loop manages concurrency.
@@ -255,7 +253,6 @@ const square = (x) => x * x; // Concise single-expression return
 
 ## 2.1.3.10.2/- Functions binding.md 
 
-```markdown
 # 2.1.3.10.2 Function Binding
 
 **🎥 Video Resource:** [JavaScript This Keyword, Call, Apply, and Bind](https://www.youtube.com/watch?v=rZc7_2YXbP8)
@@ -307,7 +304,6 @@ Variables declared with `let` and `const` **are also hoisted**, but unlike `var`
 
 ## 2.1.3.10.4/- Closures.md 
 
-```markdown
 # 2.1.3.10.4 Closures 🔒
 
 **🎥 Video Resource:** [JavaScript Closures Explained](https://www.youtube.com/watch?v=vKJpN5FAeF4)
@@ -340,7 +336,6 @@ Closures are crucial for **module patterns**, **data privacy (encapsulation)**, 
 
 ## 2.1.3.10.5/- Events.md
 
-```markdown
 # 2.1.3.10.5 Events
 
 **📖 Article Resource:** [Node.js Documentation: Events](https://nodejs.org/api/events.html)
