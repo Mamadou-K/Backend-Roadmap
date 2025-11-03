@@ -1,0 +1,12 @@
+{
+  "name": "backend-js-roadmap",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Khalil Bouras",
+  "license": "MIT",
+  "description": "A comprehensive roadmap for learning backend JavaScript development."
+}
